@@ -1,6 +1,3 @@
-Here’s a more stylish and organised version of the README file for your **Phishing Detection by Passing URL** project:
-
----
 
 # 🕵️‍♂️ Phishing Detection Web App  
 
